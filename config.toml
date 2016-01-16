@@ -1,0 +1,4 @@
+baseurl = "http://benjaminma.github.io/wrestleproof-blog/"
+languageCode = "en-us"
+title = "WRESTLEPROOF DEV BLOG"
+theme = "projecthub"
