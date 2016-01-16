@@ -1,0 +1,15 @@
+{{ partial "header.html" .}}
+
+<ol class="timeline">
+	{{ range .Data.Pages }}
+		<li class="tl-node">
+			<div class="tl-stamp">{{ .Date.Format "Mon Jan _2 2006" | safeHTML }}</div>
+			<div class="tl-content">
+				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+			</div>
+			{{ .Content }}
+		</li>
+	{{ end }}
+</ol>
+
+{{ partial "footer.html" .}}
