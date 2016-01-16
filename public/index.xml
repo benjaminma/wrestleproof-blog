@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WRESTLEPROOF DEV BLOG</title>
+    <link>http://benjaminma.github.io/wrestleproof-blog/</link>
+    <description>Recent content on WRESTLEPROOF DEV BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://benjaminma.github.io/wrestleproof-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Survey 2</title>
+      <link>http://benjaminma.github.io/wrestleproof-blog/survey-2/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://benjaminma.github.io/wrestleproof-blog/survey-2/</guid>
+      <description>&lt;p&gt;We need a color scheme. How do these look?
+&lt;a href=&#34;https://benjaminma.typeform.com/to/ILatGm&#34;&gt;https://benjaminma.typeform.com/to/ILatGm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey 1 Results</title>
+      <link>http://benjaminma.github.io/wrestleproof-blog/survey-1-results/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://benjaminma.github.io/wrestleproof-blog/survey-1-results/</guid>
+      <description>&lt;p&gt;&amp;hellip;a 4-way tie?
+&lt;a href=&#34;https://benjaminma.typeform.com/report/MgyCHi/cxGk&#34;&gt;https://benjaminma.typeform.com/report/MgyCHi/cxGk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey 1</title>
+      <link>http://benjaminma.github.io/wrestleproof-blog/survey-1/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://benjaminma.github.io/wrestleproof-blog/survey-1/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s start with an artistic style. Which one&amp;rsquo;s your favorite?
+&lt;a href=&#34;https://benjaminma.typeform.com/to/MgyCHi&#34;&gt;https://benjaminma.typeform.com/to/MgyCHi&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome &lt;3</title>
+      <link>http://benjaminma.github.io/wrestleproof-blog/welcome/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://benjaminma.github.io/wrestleproof-blog/welcome/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m developing a digital (and paper) card game. This is its development blog.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;Ben&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
