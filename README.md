@@ -1,3 +1,3 @@
 Wrestleproof Development Blog
 
-Jekyll + Github Pages
+Hugo + Github Pages
